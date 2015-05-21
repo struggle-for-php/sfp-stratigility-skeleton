@@ -1,6 +1,6 @@
 {
-    "name": "struggle-for-php/sfp-conduit-application-skeleton",
-    "description": "application skeleton for conduit",
+    "name": "struggle-for-php/sfp-stratigility-skeleton",
+    "description": "application skeleton for stratigility",
     "license": "BSD-3-Clause",
     "require": {
         "struggle-for-php/sfp-backbeard": "~0.3",
