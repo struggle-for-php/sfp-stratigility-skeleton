@@ -1,0 +1,10 @@
+{
+    "name": "struggle-for-php/sfp-conduit-application-skeleton",
+    "description": "application skeleton for conduit",
+    "license": "BSD-3-Clause",
+    "require": {
+        "struggle-for-php/sfp-backbeard": "~0.3",
+        "zendframework/zend-stratigility": "~1.0",
+        "zendframework/zend-servicemanager": "~2.4"
+    }
+}
