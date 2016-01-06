@@ -3,8 +3,9 @@
     "description": "application skeleton for stratigility",
     "license": "BSD-3-Clause",
     "require": {
-        "struggle-for-php/sfp-backbeard": "~0.3",
+        "sasezaki/backbeard": "^0.6.0",
         "zendframework/zend-stratigility": "~1.0",
-        "zendframework/zend-servicemanager": "~2.4"
+        "zendframework/zend-servicemanager": "~2.6",
+        "zendframework/zend-diactoros": "^1.1"
     }
 }
